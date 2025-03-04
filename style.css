@@ -1,5 +1,5 @@
 body {
-  background-color: salmon;
+  background-color: #202355;
 }
 
 * {
@@ -8,6 +8,9 @@ body {
   box-sizing: border-box;
 }
 
+h1 {
+  color: yellow;
+}
 /* BUTTON */
 
 #btn {
