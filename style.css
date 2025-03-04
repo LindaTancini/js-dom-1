@@ -7,3 +7,11 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+/* BUTTON */
+
+#btn {
+  padding: 10px 20px;
+  font-size: 17px;
+  cursor: pointer;
+}
